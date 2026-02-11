@@ -26,6 +26,11 @@ git clone https://github.com/AoiToSouma/pliDatafeedJobs.git
 cd pliDatafeedJobs
 ```
 
+## Web3モジュールインストール
+```
+npm install
+```
+
 ## 環境設定
 ```
 nano allocations.json
