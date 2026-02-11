@@ -1,0 +1,21 @@
+{
+  "rpc": "https://erpc.xinfin.network",
+  "allocations": [
+    {
+      "nodeAddress": "YOUR_VALIDATOR_NODE_ADDRESS_1",
+      "facAddresses": [
+        "FLUX_AGGREGATOR_CONTRACT_ADDRESS_1-1",
+        "FLUX_AGGREGATOR_CONTRACT_ADDRESS_1-2",
+        "FLUX_AGGREGATOR_CONTRACT_ADDRESS_1-3"
+      ]
+    },
+    {
+      "nodeAddress": "YOUR_VALIDATOR_NODE_ADDRESS_2",
+      "facAddresses": [
+        "FLUX_AGGREGATOR_CONTRACT_ADDRESS_2-1",
+        "FLUX_AGGREGATOR_CONTRACT_ADDRESS_2-2",
+        "FLUX_AGGREGATOR_CONTRACT_ADDRESS_2-3"
+      ]
+    }
+  ]
+}
